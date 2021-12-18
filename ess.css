@@ -1,0 +1,114 @@
+nav
+{
+  background-image: url(tours/culture2.jpg);
+  height: 100px;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  border-radius: 50px; 
+}
+h1
+{
+  text-align: center;
+  font-family: cursive;
+  color: white;
+  font-size: 3em;
+  overflow: hidden;
+  top: 50px; 
+}
+body
+{
+  padding-bottom: 25px;
+  background-image: url(tours/oups.jpg);
+  width: 100%;
+  
+}
+#corps p
+{
+margin-top: 100px;
+padding-top: 100px;
+text-align: justify;
+}
+nav
+{
+  
+margin-top: -150px;
+padding-top: -150px;
+}
+h4
+{
+  margin-top: 150px;
+padding-top: 150px;
+}
+#image2 img 
+{
+  border-radius: 100%;
+  text-decoration: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 30px 10%;
+  border-radius: 25px 25px 25px black;
+}
+#foto2 #foto4 #foto6 #foto8 #foto10 
+{
+  float: right;
+}
+#image2 h2
+{
+  float: right;
+}
+#sect
+{
+  margin-right: 300px;
+  padding-right: 300px;
+  
+
+}
+#sect #image2
+{
+  float: left;
+  
+
+}
+#ht img
+{
+  display: flex;
+}
+#foto12
+{
+  float: right;
+  border-radius: 50px;
+}
+#foto14
+{
+  float: right;
+  border-radius: 50px;
+}
+#foto13
+{
+  float: right;
+}
+.pref img
+{
+  border-radius: 50px;
+  box-shadow: black 10px 10px 10px 10px;
+}
+#corps img
+{
+  margin-left: 360px;
+  padding-left: 360px;
+  margin-top: -500px;
+}
+#foto9 h2
+{
+  margin-right: 300px;
+  padding-right: 300px;
+}
+* h2
+{
+  color: blue;
+  border: darkgrey;
+}
